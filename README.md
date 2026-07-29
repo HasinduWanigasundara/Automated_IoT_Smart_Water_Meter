@@ -5,8 +5,8 @@
 An ultra-low-power, end-to-end IoT smart water metering system designed to tackle Sri Lanka’s Non-Revenue Water (NRW) challenges. By replacing conventional manual metering, this system enables real-time water consumption monitoring, automated billing, and early leak detection.
 
 <p align="center">
-  <img src="images/final_product.jpg" alt="Final Assembled Smart Water Meter" width="48%">
-  <img src="images/team_photo.jpg" alt="Team Excalibur" width="48%">
+  <img src="images/Final Product.jpg" alt="Final Assembled Smart Water Meter" width="48%">
+  <img src="images/Team_Photo.jpg" alt="Team Excalibur" width="48%">
 </p>
 
 ## 💡 System Overview
@@ -33,20 +33,12 @@ The custom 2-layer FR-4 PCB was designed using Altium Designer.
 * **Power Subsystem:** 3.6V Li-SOCl2 Battery regulating to a 3.3V LDO (XC6206) for the MCU and a 4V Buck-Boost Converter (TPS61023DRLR) for the GSM module.
 * **Sensors & Peripherals:** Hall-effect flow sensor inputs (TIM2), I2C OLED display header, and expansion GPIOs (PA3, PA4, PB13–PB15).
 
-## 🛠 Repository Structure
-
-* `/firmware`: C/C++ source code for the STM32L0 MCU (STM32CubeIDE project).
-* `/hardware`: Altium Designer schematic documents, PCB layouts, and Gerber files.
-* `/mechanical`: 3D CAD files for the IP67 waterproof mechanical enclosure and turbine rotor.
-* `/software`: (Optional) Source code for the AquaSync and WaterboardOS web applications.
-* `/docs`: Project reports, architectural diagrams, and survey validation.
-
 ## 👥 Team Excalibur
-* **W.M.H. Wanigasundara** - PCB Design (MCU, Sensors), Soldering, Testing & Debugging
-* **A.H.T.M. Weerakoon** - SolidWorks Design, Integration, Component Selection
-* **H.W.D. Prabarshana** - SolidWorks Design, Documentation, Procurement
-* **K.D. Manatunga** - SolidWorks Design, Soldering, PCB Testing
-* **H.D.J.D. Samaranayaka** - PCB Design (Power), Web Application Development
+* **W.M.H. Wanigasundara** 
+* **A.H.T.M. Weerakoon**
+* **H.W.D. Prabarshana** 
+* **K.D. Manatunga**
+* **H.D.J.D. Samaranayaka** 
 
 ---
 *Developed for the EN2160 Electronic Design Realization module, University of Moratuwa (2026).*
