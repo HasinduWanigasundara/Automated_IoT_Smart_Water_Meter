@@ -6,7 +6,7 @@ An ultra-low-power, end-to-end IoT smart water metering system designed to tackl
 
 <p align="center">
   <img src="Images/Team_Photo.jpeg" alt="Team Excalibur" width="48%">
-  <img src="Images/Final Product.jpeg" alt="Final Assembled Smart Water Meter" width="25%">
+  <img src="Images/Final Product.jpeg" alt="Final Assembled Smart Water Meter" width="27%">
 </p>
 
 ## 💡 System Overview
