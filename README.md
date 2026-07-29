@@ -4,6 +4,11 @@
 
 An ultra-low-power, end-to-end IoT smart water metering system designed to tackle Sri Lanka’s Non-Revenue Water (NRW) challenges. By replacing conventional manual metering, this system enables real-time water consumption monitoring, automated billing, and early leak detection.
 
+<p align="center">
+  <img src="images/final_product.jpg" alt="Final Assembled Smart Water Meter" width="48%">
+  <img src="images/team_photo.jpg" alt="Team Excalibur" width="48%">
+</p>
+
 ## 💡 System Overview
 
 The system integrates embedded hardware, GSM communication, and cloud-based data management to create a scalable IoT platform. 
