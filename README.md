@@ -1,5 +1,6 @@
 # 💧 Automated IoT Smart Water Meter
 *Completed July 2026*
+
 **Project for EN2160 - Electronic Design Realization** *Department of Electronic and Telecommunication Engineering, University of Moratuwa*
 
 An ultra-low-power, end-to-end IoT smart water metering system designed to tackle Sri Lanka’s Non-Revenue Water (NRW) challenges. By replacing conventional manual metering, this system enables real-time water consumption monitoring, automated billing, and early leak detection.
