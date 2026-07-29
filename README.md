@@ -1,5 +1,5 @@
 # 💧 Automated IoT Smart Water Meter
-*Completed July 2026*
+*Completed: July 2026*
 
 **Project for EN2160 - Electronic Design Realization** *Department of Electronic and Telecommunication Engineering, University of Moratuwa*
 
